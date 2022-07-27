@@ -1,0 +1,14 @@
+/* p{
+  font-weight: bold;
+  font-weight: 900;
+} */
+@font-face {
+  font-family: 'irannastaliq';
+  src:url('fonts/IranNastaliq.ttf') format('ttf');
+  src:url('fonts/IranNastaliq.eot') format('eot');
+  src:url('fonts/IranNastaliq.woff') format('woff');
+}
+p{
+  font-family: 'irannastaliq';
+  direction: rtl;
+}
